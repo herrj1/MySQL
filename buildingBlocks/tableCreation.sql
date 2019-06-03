@@ -13,7 +13,7 @@ MariaDB [(none)]> show databases;
 | Database           |
 +--------------------+
 | xxxxxxxxxxx        |
-| CustomerDB         |
+| CustomeXDB         |
 | information_schema |
 | xxxxxxxxxxx        |
 | xxxxxxxxxxx        |
